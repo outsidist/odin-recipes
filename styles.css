@@ -9,7 +9,7 @@ img {
 }
 
 body {
-    margin: 5% 25% 0 25%;
+    margin: 5% 10% 0 10%;
 }
 
 .tagline,
@@ -45,6 +45,6 @@ ul {
     text-align: center;
 }
 
-#frontlist {
+ul.frontlist {
     list-style: none;
 }
