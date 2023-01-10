@@ -1,0 +1,50 @@
+* {
+    background-color: #efefcb;
+    font-family: 'Papyrus', 'comic sans';
+    color:black;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    margin: 5% 25% 0 25%;
+}
+
+.tagline,
+.webname {
+    text-align: center;
+    font-stretch: ultra-expanded;
+}
+
+.webname {
+    font-size: x-large;
+}
+
+.tagline {
+    font-size: larger;
+}
+
+.splash {
+    display: block;
+    margin: 0 auto;
+    max-height: auto;
+}
+
+li {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    margin: 0 25%;
+    text-align: center;
+}
+
+#frontlist {
+    list-style: none;
+}
